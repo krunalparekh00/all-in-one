@@ -11,10 +11,10 @@ import sys
 async def Start_msg(bot: stark , m: Message):
     await bot.send_photo(
     m.chat.id,
-    photo="https://telegra.ph/file/cef3ef6ee69126c23bfe3.jpg",
-    caption = "**Hi i am All in One Extractor Bot**.\n"
-                            "Press **menu commands** to**to use bot**..\n\n"
-                            "**𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : Invisible 😁**")
+    photo="",
+    caption = "** HII I AM Ankush Batch Extract Bot**.\n"
+                            "Press **Menu Command To Use Our Bot**..\n\n"
+                            "**𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : @ankushnirwan**")
            
 
 

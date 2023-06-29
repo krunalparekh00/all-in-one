@@ -11,7 +11,7 @@ import sys
 async def Start_msg(bot: stark , m: Message):
     await bot.send_photo(
     m.chat.id,
-    photo="",
+    photo="https://graph.org/file/51006f3a1cb6eb81fe55f.jpg",
     caption = "** Hii I AM Ankush Batch Extract Bot**.\n"
                             "Press **Menu Command To Use Our Bot**..\n\n"
                             "**𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 : @ankushnirwan**")
